@@ -3,6 +3,7 @@
 #define BLACK 0
 #define WHITE 255
 #define BALANCE 128
+#AnhBT
 
 int main()
 {
